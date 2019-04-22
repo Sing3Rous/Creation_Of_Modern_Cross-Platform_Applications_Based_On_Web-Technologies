@@ -476,7 +476,8 @@ function addPersonForm() {
             <div class="row"></div>
         </div>
 
-        <button type="button"  class="btn btn-light" onclick="addPerson()">Input</button>
+        <h3>    </h3>
+        <button type="button"  class="btn btn-light btn-lg btn-block" onclick="addPerson()">Input</button>
         </form>
         `
     }
@@ -552,7 +553,8 @@ function addTeacherForm() {
             </div>
         </div>
     
-        <button type="button"  class="btn btn-light" onclick="addTeacher()">Input</button>
+        <h3>    </h3>
+        <button type="button"  class="btn btn-light btn-lg btn-block" onclick="addTeacher()">Input</button>
         </form>
         `
     }
@@ -634,7 +636,8 @@ function addStudentForm() {
             </div>
         </div>
     
-        <button type="button"  class="btn btn-light" onclick="addStudent()">Input</button>
+        <h3>    </h3>
+        <button type="button"  class="btn btn-light btn-lg btn-block" onclick="addStudent()">Input</button>
         </form>
         `
     }

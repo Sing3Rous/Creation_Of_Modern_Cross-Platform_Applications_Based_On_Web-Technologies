@@ -395,8 +395,8 @@ function showStudentsTable() {
             <tr>
                 <th scope="col">Name</th>
                 <th scope="col">Patronymic</th>
-                <th scope="col">LastName</th>
-                <th scope="col">BirthDate</th>
+                <th scope="col">Last Name</th>
+                <th scope="col">Birth Date</th>
                 <th scope="col">Weight</th>
                 <th scope="col">Course</th>
                 <th scope="col">Group</th>
@@ -450,7 +450,7 @@ function addPersonForm() {
         <div class="row">
             <div class="col">
                 <label >First Name</label>
-                <input type="text" class="form-control" placeholder="First name">
+                <input type="text" class="form-control" placeholder="First Name">
             </div>
             <div class="col">
                 <label >Patronymic</label>
@@ -516,15 +516,15 @@ function addTeacherForm() {
         <form id="form">
         <div class="row">
             <div class="col">
-                <label >First name</label>
-                <input type="text" class="form-control" placeholder="First name">
+                <label >First Name</label>
+                <input type="text" class="form-control" placeholder="First Name">
             </div>
             <div class="col">
                 <label >Patronymic</label>
                 <input type="text" class="form-control" placeholder="Patronymic">
             </div>
             <div class="col">
-                <label>Last name</label>
+                <label>Last Name</label>
                 <input type="text" class="form-control" placeholder="Last Name">
             </div>
         </div>

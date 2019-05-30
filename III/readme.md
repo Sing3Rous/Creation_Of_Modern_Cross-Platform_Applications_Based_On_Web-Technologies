@@ -1,1 +1,1 @@
-thanks to @optozorax (https://github.com/optozorax)
+thanks to https://github.com/optozorax
